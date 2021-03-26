@@ -16,7 +16,7 @@ What makes a home valuable?
 This question is the most important of all and helps us decide which houses we are going to purchase.
 
 
-####Recommendations
+#### Recommendations
 1. When looking to purchase a home, evaluating the upside of the location is paramount.
 2. Ask the people that are familiar with the houses.  The kings county grading system was a great predictor and those that are familiar with the area are usually able to give better input on the value.
 
