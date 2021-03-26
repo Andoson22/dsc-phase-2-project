@@ -13,7 +13,7 @@ This data is found in the zippedData folder
 
 What makes a home valuable?
 
-This question is the most important of all and helps us decide which houses we are going to purchase.
+This question is the most important of all and helps us decide which houses we are going to purchase to obtain the most financial upside.
 
 
 #### Recommendations
