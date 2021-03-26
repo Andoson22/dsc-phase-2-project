@@ -1,19 +1,21 @@
 ## Project Description
 
-For this project, the kings county housing dataset, we are looking to decide which houses are the most "valuable" to purchase in order to maximize our profitability of potentially reselling it, or getting the best "bang for our buck".
+For this project, we're looking into the kings county housing dataset, and deciding which houses are the most "valuable" to purchase in order to maximize our profitability of potentially reselling it, or getting the best "bang for our buck".
 
 ### The Data
 
 The data used comes from one source:
 
 Kings County Housing Data
-This data is found in the zippedData folder
+This data is found in the Data folder
 
 ### Key Findings
 
 What makes a home valuable?
 
 This question is the most important of all and helps us decide which houses we are going to purchase to obtain the most financial upside.
+
+Our strongly correlated variables were sqftliving, bedrooms, bathrooms, sqftlot, grade, sqftliving15, sqftabove, and sqftlot15.  There was a slight left skew when looking at the initial pricing distribution however it turned out to be approximately normally distributed.  (A slight left skew seems to make sense seeing as how there are far more houses available at smaller budgets rather than larger.)
 
 
 #### Recommendations
