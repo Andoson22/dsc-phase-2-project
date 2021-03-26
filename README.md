@@ -30,7 +30,7 @@ Bathrooms- The more bathrooms the merrier, as long as your wallet can oblige.
 
 Location, size, and number of bathrooms were the strongest features in our best model.  We recommend focuses on these when looking to maximize the potential value a home has/can have if you're looking to remodel/flip.
 
-####Future Work
+#### Future Work
 
 Would like to investigate the price increase for incremental changes to number of bathrooms/bedrooms in the future to see where the breakpoint is in marginal utility.  Another interesting thing to look into would be to access how the Kings County system grades the houses in the dataset to see which of the features they're putting the most importance on, and, if that would carry over to other areas as well.
 
