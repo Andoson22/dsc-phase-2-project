@@ -22,7 +22,12 @@ This question is the most important of all and helps us decide which houses we a
 
 Here we can see that our data has a left skew, which makes sense because there are more homes available in a range of lower budgets that higher.
 
-Our strongly correlated variables were sqftliving, bedrooms, bathrooms, sqftlot, grade, sqftliving15, sqftabove, and sqftlot15.  There was a slight left skew when looking at the initial pricing distribution however it turned out to be approximately normally distributed.  (A slight left skew seems to make sense seeing as how there are far more houses available at smaller budgets rather than larger.)
+Our strongly correlated variables were sqftliving, bedrooms, bathrooms, sqftlot, grade, sqftliving15, sqftabove, and sqftlot15.  There was a slight left skew when looking at the initial pricing distribution however it turned out to be approximately normally distributed.  Below we can see via the heatmap.
+
+![image](https://user-images.githubusercontent.com/68972505/112782850-fdb5d100-901b-11eb-84c3-1a67659dd264.png)
+
+
+
 
 
 #### Recommendations
