@@ -13,7 +13,10 @@ This data is found in the Data folder
 
 What makes a home valuable?
 
-This question is the most important of all and helps us decide which houses we are going to purchase to obtain the most financial upside.
+This question is the most important of all and helps us decide which houses we are going to purchase to obtain the most financial upside.  To do this we first looked to see which variables were most correlated with the house price.
+
+![image](https://user-images.githubusercontent.com/68972505/112782683-97c94980-901b-11eb-86ca-ae91f7bceddf.png)
+
 
 Our strongly correlated variables were sqftliving, bedrooms, bathrooms, sqftlot, grade, sqftliving15, sqftabove, and sqftlot15.  There was a slight left skew when looking at the initial pricing distribution however it turned out to be approximately normally distributed.  (A slight left skew seems to make sense seeing as how there are far more houses available at smaller budgets rather than larger.)
 
